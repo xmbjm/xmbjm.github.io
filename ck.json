@@ -2,26 +2,18 @@
   "urls": [
     {
       "name": "📚公众号：拾光趣乐屋📚",
-      "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xmbjm/omg/main/omg.json"
-    },
-    {
-      "name": "拾光备①📚拾光仓库",
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xmbjm/omg/main/omg.json"
-    },
-    {
-      "name": "拾光备②📚拾光仓库",
-      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/xmbjm/omg/main/omg.json"
-    },
-    {
-      "name": "拾光备③📚拾光仓库",
-      "url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/xmbjm/omg/main/omg.json"
-    },
-    {
-      "name": "拾光追影📚拾光仓库",
       "url": "https://d.kstore.dev/download/4708/omg/zy.json"
     },
     {
-      "name": "拾光看剧📚拾光仓库",
+      "name": "拾光爱壹📚拾光仓库",
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/xmbjm/omg/main/omg.json"
+    },
+    {
+      "name": "拾光爱贰📚拾光仓库",
+      "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/xmbjm/omg/refs/heads/main/omg.json"
+    },
+    {
+      "name": "拾光追影📚拾光仓库",
       "url": "https://d.kstore.dev/download/4708/omg/omg.json"
     },
     {
