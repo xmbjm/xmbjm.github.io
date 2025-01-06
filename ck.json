@@ -58,7 +58,7 @@
     },
     {
       "name": "小米📚拾光仓库",
-      "url": "http://www.mpanso.com/小米/DEMO.json"
+      "url": "https://mpanso.me/DEMO.json"
     },
     {
       "name": "玉儿📚拾光仓库",
@@ -214,29 +214,12 @@
     },
     {
       "name": "PizazzGY📚拾光仓库",
-      "url": "https://9877.kstore.space/FourD/api.json"
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/xmbjm/omg/refs/heads/main/api.json"
     },
     {
       "name": "影视备用📚拾光仓库",
       "url": "https://d.kstore.dev/download/6474/tvbox/api.json"
     },
-    {
-      "name": "码点苹果📚拾光仓库",
-      "url": "http://120.79.4.185/xgh.json"
-    },
-    {
-      "name": "码点玫瑰📚拾光仓库",
-      "url": "http://120.79.4.185/mdkdb.json"
-    },
-    {
-      "name": "码点樱桃📚拾光仓库",
-      "url": "http://120.79.4.185/mdxgh.json"
-    },
-    {
-      "name": "码点草莓📚拾光仓库",
-      "url": "http://120.79.4.185/dz.json"
-    },
-
     {
       "name": "请勿贩卖📚拾光仓库",
       "url": "https://9071.kstore.vip/fhzx.txt"
